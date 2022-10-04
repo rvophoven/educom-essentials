@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="DPQma8YRM5aFoWFf3z6c" name="Page-1">
+        <mxGraphModel dx="877" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="pak mok/beker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="120" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Koffie pakken&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="90" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Zet mok/beker onder uitlaat koffiemachine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="180" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Selecteer drank" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="240" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Drank klaar? = ja" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="300" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Wacht" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="300" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="pak mok/beker met drank" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="360" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Iet in de koffie?" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="420" width="320" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=none;html=1;fontSize=14;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="550" as="sourcePoint"/>
+                        <mxPoint x="430" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="pak suiker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="490" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="pak melk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="490" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="490" width="50" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="pak suiker en melk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="490" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="suiker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Melk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Suiker en melk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Niets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Scheur open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="550" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="scheur open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="550" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="scheur open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="550" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="doe in koffie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="610" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="doe in koffie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="610" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="doe in koffie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="610" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Return drink koffie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="670" width="320" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
