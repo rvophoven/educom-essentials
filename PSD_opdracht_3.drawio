@@ -1,0 +1,139 @@
+<mxfile host="65bd71144e">
+    <diagram id="ftPVtpmJ2k-KUZXjEgCC" name="Page-1">
+        <mxGraphModel dx="875" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Loop naar automaat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="200" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Ga voor de automaat staan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="260" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Kijk naar de producten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="320" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Snicker kopen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="170" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Product =/ snicker" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="380" width="320" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Bekijk volgend product" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="410" width="270" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Bekijk code/ID snicker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="450" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Toets code/ID in op touchpad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="510" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Druk op enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="570" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Betaalmethode" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="630" width="320" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=none;html=1;fontSize=14;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="11" target="11">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="650" as="sourcePoint"/>
+                        <mxPoint x="440" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Pak muntgeld" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="700" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Pak pas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="700" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Muntgeld" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="670" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Contactloos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="670" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="17" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Stop geld in automaat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="760" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Houd pas tegen betaalpunt&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="760" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Geld terug?" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="820" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Pin nodig?" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="820" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="endArrow=none;html=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="21" target="20">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="790" as="sourcePoint"/>
+                        <mxPoint x="440" y="740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=none;html=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="890" as="sourcePoint"/>
+                        <mxPoint x="180" y="820" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=none;html=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="20" target="20">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="900" as="sourcePoint"/>
+                        <mxPoint x="190" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="860" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="860" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="860" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="860" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=none;html=1;fontSize=14;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="21">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="890" as="sourcePoint"/>
+                        <mxPoint x="350" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="pak wissel geld" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="890" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Type pin" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="890" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="-" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="890" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="-" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="890" width="80" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Heeft automaat snicker gepakt? = ja" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="1030" width="320" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Wacht" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1030" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Pak snicker uit automaat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="1120" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Return eet snicker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="1180" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Stop pas weg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="960" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="stop geld weg" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="960" width="80" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
